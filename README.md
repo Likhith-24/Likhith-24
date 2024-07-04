@@ -5,21 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likhith-24" alt="likhith-24" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/likhith24" target="blank"><img src="https://img.shields.io/twitter/follow/likhith24?logo=twitter&style=for-the-badge" alt="likhith24" /></a> </p>
+<p align="left"> <a href="https://linkedin/in/v-likhith" target="blank"><img src="https://img.shields.io/linkedin/follow/v-likhith?logo=twitter&style=for-the-badge" alt="v-likhith" /></a> </p>
 
 - 🔭 I’m currently working on [VedaGPT](https://github.com/Likhith-24/VedaGPT)
 
-- 🌱 I’m currently learning **HuggingFace, LLMs, AI, DS, ML, NLP, and much more**
-
+- 🌱 I’m currently learning:
+  - **HuggingFace, LLMs, AI, DS, ML, NLP**
+  - **Data Structures and Algorithms**
+  - **System Design**
+  - **Tools and technologies: Pandas, NumPy, Scikit-Learn, PyTorch, NLTK, SciPy, Matplotlib, Seaborn, Keras, HuggingFace, LangChain, Flask, Streamlit, Hadoop, Spark, Tableau, PowerBI**
+    
 - 👨‍💻 All of my projects are available at [https://github.com/Likhith-24/](https://github.com/Likhith-24/)
 
-- 💬 Ask me about **AI, LLMs, HuggingFace, DS, ML, NLP, Deep Learning**
+- 💬 Ask me anything about **AI, LLMs, Generative AI, Vector Database, RAGs, GANs, HuggingFace, Data Science, Machine Learning, Natural Language Processing, Deep Learning**
 
-- 📫 How to reach me **v.likhith.01@gmail.com**
+- 📫 How to reach me: [**v.likhith.01@gmail.com**](mailto:v.likhith.01@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZfhrFsnmvAUpZWeRfY2-aCY2uCq4Aty4/view?usp=drive_link](https://drive.google.com/file/d/1ZfhrFsnmvAUpZWeRfY2-aCY2uCq4Aty4/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qwvUaJRfJRmhQ-SoWjA513G5j5iqGQhy/view?usp=drive_link](https://drive.google.com/file/d/1qwvUaJRfJRmhQ-SoWjA513G5j5iqGQhy/view?usp=drive_link)
 
-- ⚡ Fun fact **I may have some sense of humour. I will have more convos if you start about Marvel, DC, Tech-Stuff**
+- ⚡ Fun fact **I may have some sense of humour. I will have more convos if you start about Marvel, DC, Star Wars, Tech-Stuff, Space. Literally Anything XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
