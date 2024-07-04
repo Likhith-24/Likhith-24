@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likhith-24" alt="likhith-24" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/v-likhith/" target="blank"><img src="https://img.shields.io/linkedin/follow/v-likhith?logo=twitter&style=for-the-badge" alt="v-likhith" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/v-likhith/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="v-likhith" /></a> </p>
 
 - 🔭 I’m currently working on [VedaGPT](https://github.com/Likhith-24/VedaGPT)
 
