@@ -1,6 +1,10 @@
 <h1 align="center">• Hello There 👋, Likhith is who I am •</h1>
 <h3 align="center">⚡Explorer | Creator | Innovator | Developer ⚡</h3>
 
+<div align="center">
+  <img alt="gif" src="https://github.com/Likhith-24/Likhith-24/assets/132389441/2dbe6ffd-825a-4153-b33e-adb7de4bc648" width="300" height="300" />  
+</div>
+
 ⁜ I am a Data Science with AI & ML Enthusiast, trying to build AI solutions for a smarter future.
 
 ⁜ As a passionate data scientist with a knack for innovation,  I leverage cutting-edge techniques like Generative AI and NLP to tackle complex problems. 
@@ -9,34 +13,33 @@
 
 ⁜ I love programming, reading books, learning about awesome new-tech and communicating with everyone.
 
+<div align="left">
+  
+  - 🔭 **I’m currently working on** [VedaGPT](https://github.com/Likhith-24/VedaGPT)
+ 
+  <img  align="right" alt="gif" src="https://github.com/Likhith-24/Likhith-24/assets/132389441/37e67869-e8d5-45ec-8c57-9eff31b59b83" width="300" height="350" />  
+
+  - 🌱 **I’m currently learning:**
+    - HuggingFace, LLMs, AI, DS, ML, NLP
+    - Data Structures and Algorithms
+    - System Design
+    - Tools and technologies: Pandas, NumPy, Scikit-Learn, PyTorch, NLTK, SciPy, <br>Matplotlib, Seaborn, Keras, HuggingFace, LangChain,
+      Flask, Streamlit, Hadoop, Spark, Tableau, PowerBI</br>
+    
+  - 👨‍💻 **All of my projects are available at** [https://github.com/Likhith-24/](https://github.com/Likhith-24/)
+
+  - 💬 **Ask me anything about** AI, LLMs, Generative AI, Vector Database<br> RAGs, GANs, HuggingFace, Data Science, Machine Learning,</br>Natural Language           Processing, Deep Learning
+
+  - 📫 **How to reach me:** [**v.likhith.01@gmail.com**](mailto:v.likhith.01@gmail.com)
+
+  - 📄 Know about my experiences ['here'](https://drive.google.com/file/d/1qwvUaJRfJRmhQ-SoWjA513G5j5iqGQhy/view?usp=drive_link)
+
+  - ⚡ **Fun fact:** I might have some sense of humour. I will have more convos if you start about Star Wars, Tech-Stuff, Space. Literally Anything!
+</div>
+
 
 <div align="center" href="https://readme-jokes.vercel.app"> <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"> </div>
 
-
-<img align="right" alt="gif" src="https://github.com/Likhith-24/Likhith-24/assets/132389441/37430825-2b6d-4157-a765-81bc32073099" width="450" height="300" />
-<img align="left" alt="gif" src="![Uploading giphy-ezgif.com-optimize.gif…]()" width="450" height="300" />
-
-- 🔭 I’m currently working on [VedaGPT](https://github.com/Likhith-24/VedaGPT)
-
-- 🌱 I’m currently learning:
-  - **HuggingFace, LLMs, AI, DS, ML, NLP**
-  - **Data Structures and Algorithms**
-  - **System Design**
-  - **Tools and technologies: Pandas, NumPy, Scikit-Learn, PyTorch**
-    <br>**NLTK, SciPy, Matplotlib, Seaborn, Keras, HuggingFace, LangChain,
-    Flask, Streamlit, Hadoop, Spark, Tableau, PowerBI**</br>
-    
-- 👨‍💻 All of my projects are available at [https://github.com/Likhith-24/](https://github.com/Likhith-24/)
-
-- 💬 Ask me anything about **AI, LLMs, Generative AI, Vector Database<br> RAGs, GANs, HuggingFace, Data Science, Machine Learning,</br>Natural Language Processing, Deep Learning**
-
-- 📫 How to reach me: [**v.likhith.01@gmail.com**](mailto:v.likhith.01@gmail.com)
-
-- 📄 Know about my experiences ['here'](https://drive.google.com/file/d/1qwvUaJRfJRmhQ-SoWjA513G5j5iqGQhy/view?usp=drive_link)
-
-- ⚡ Fun fact:
--  **I might have some sense of humour.**
--  **I will have more convos if you start about Marvel, DC, Star Wars, Tech-Stuff, Space. Literally Anything XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -204,15 +207,5 @@
   <img src="https://github.com/Likhith-24/Likhith-24/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-###
+<h4 align="center">⚠ Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
 
-
-
-
-
-
-
-
-
- 
-  ⚠ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
