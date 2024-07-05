@@ -1,19 +1,20 @@
 <h1 align="center">• Hello There 👋, Likhith is who I am •</h1>
 <h3 align="center">⚡Explorer | Creator | Innovator | Developer ⚡</h3>
 
-⁜ I am a Data Science Enthusiast, trying to build AI solutions for a smarter future.
+⁜ I am a Data Science with AI & ML Enthusiast, trying to build AI solutions for a smarter future.
 
 ⁜ As a passionate data scientist with a knack for innovation,  I leverage cutting-edge techniques like Generative AI and NLP to tackle complex problems. 
 
 ⁜ Programmer by day, world-shaper by dream. I wield a meticulous scalpel on code, sculpting impactful solutions. I seek elegant solutions, using code as my lightsaber of precision to build a better galaxy.
 
-⁜ I love programming, reading books, learning aboput awesome new-tech and communicating with everyone.
+⁜ I love programming, reading books, learning about awesome new-tech and communicating with everyone.
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likhith-24" alt="likhith-24" /></a> </p>
+<div align="center" href="https://readme-jokes.vercel.app"> <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"> </div>
 
 
-<img align="right" alt="video" src="https://github.com/Likhith-24/Likhith-24/assets/132389441/37430825-2b6d-4157-a765-81bc32073099" width="450" height="300" />
+<img align="right" alt="gif" src="https://github.com/Likhith-24/Likhith-24/assets/132389441/37430825-2b6d-4157-a765-81bc32073099" width="450" height="300" />
+<img align="left" alt="gif" src="![Uploading giphy-ezgif.com-optimize.gif…]()" width="450" height="300" />
 
 - 🔭 I’m currently working on [VedaGPT](https://github.com/Likhith-24/VedaGPT)
 
@@ -191,18 +192,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhith-24&label=Profile%20views&color=0e75b6&style=flat" alt="likhith-24" /> <b>&nbsp; is the total count! </b>  </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhith-24&show_icons=true&locale=en&layout=compact" alt="likhith-24" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Likhith-24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1&custom_title=My%20Datacrons%20on%20GitHub" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Likhith-24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2&custom_title=My%20Galactic%20Standard%20Languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Likhith-24&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Likhith-24&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likhith-24&radius=16&theme=github-dark&area=true&order=5&bg_color=000000&color=00aeff&title_color=00FF41&line=00FF41&point=FFFFFF&area_color=FFFFFF&custom_title=My%20Contribution%20Holocron" height="300" alt="activity-graph graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likhith-24&show_icons=true&locale=en" alt="likhith-24" /></p>
+<div align="center">
+  <img src="https://github.com/Likhith-24/Likhith-24/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-<br clear="both">
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=likhith-24&" alt="likhith-24" /></p>
-</br>
+###
 
-<br clear="both">
 
-  ![Snake animation](https://github.com/Likhith-24/Likhith-24/blob/main/github-contribution-grid-snake.svg)
+
+
+
+
+
 
 
  
- ⚠ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  ⚠ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
