@@ -196,12 +196,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhith-24&label=Profile%20views&color=0e75b6&style=flat" alt="likhith-24" /> <b>&nbsp; is the total count! </b>  </p> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likhith-24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1&custom_title=My%20Datacrons%20on%20GitHub" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Likhith-24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Likhith-24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2&custom_title=My%20Galactic%20Standard%20Languages" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Likhith-24&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Likhith-24&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likhith-24&radius=16&theme=github-dark&area=true&order=5&bg_color=000000&color=00aeff&title_color=00FF41&line=00FF41&point=FFFFFF&area_color=FFFFFF&custom_title=My%20Contribution%20Holocron" height="300" alt="activity-graph graph"  />
 </div>
+
+
+###
 
 <div align="center">
   <img src="https://github.com/Likhith-24/Likhith-24/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
