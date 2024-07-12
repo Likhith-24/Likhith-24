@@ -14,10 +14,10 @@
 ⁜ I love programming, reading books, learning about awesome new-tech and communicating with everyone.
 
 <div align="left">
-  
+
+   <img  align="right" alt="gif" src="https://github.com/Likhith-24/Likhith-24/assets/132389441/37e67869-e8d5-45ec-8c57-9eff31b59b83" width="300" height="350" />  
+   
   - 🔭 **I’m currently working on** [VedaGPT](https://github.com/Likhith-24/VedaGPT)
- 
-  <img  align="right" alt="gif" src="https://github.com/Likhith-24/Likhith-24/assets/132389441/37e67869-e8d5-45ec-8c57-9eff31b59b83" width="300" height="350" />  
 
   - 🌱 **I’m currently learning:**
     - HuggingFace, LLMs, AI, DS, ML, NLP
