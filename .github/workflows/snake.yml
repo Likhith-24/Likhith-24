@@ -9,21 +9,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          color_snake: blue
-      
+          snake_color: 'blue'
+          days_count: 0
+          
       - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: EndBug/add-and-commit@v7.2.1
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          message: 'Generate Contribution Snake'
