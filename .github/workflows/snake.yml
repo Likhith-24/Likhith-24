@@ -1,44 +1,31 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *" # Runs daily
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions: write-all
-
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       
       - name: Generate Snake
         uses: Platane/snk@master
-        id: snake-gif
         with:
-          github_user_name: Likhith-24
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - name: Debug Info
-        run: |
-          echo "Current directory contents:"
-          ls -la
-          echo "Dist directory contents (if exists):"
-          ls -la dist || echo "Dist directory not found"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          snake_color: 'blue'
+          # The key parameter - setting to 0 includes all contributions from the beginning
+          days_count: 0
+          
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          message: 'Generate Contribution Snake'
